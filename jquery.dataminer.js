@@ -1,3 +1,12 @@
+/*global jQuery */
+/*! 
+* Dataminer 1.0.1
+*
+* Copyright 2012, Sean Gofus - http://www.seangofus.com
+* Released under the WTFPL license - http://sam.zoy.org/wtfpl/
+*
+* Date: Sun April 16 2:40:00 2011 -06000
+*/
 (function ($) {
 	$.fn.dataMiner = function (options) {
 		var selector;
